@@ -1,4 +1,44 @@
-span {
+.web-studio {
   color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
   font-size: 18px;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.studio {
+  color: #2e2f42;
+}
+
+.three-log,
+.add-log {
+  list-style: none;
+}
+.three-log a {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+.three-log a:hover,
+.three-log a:focus,
+.add-log a:hover,
+.add-log a:focus {
+  color: #404bbf;
+}
+
+.add-log a {
+  font-style: normal;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration: none;
 }
