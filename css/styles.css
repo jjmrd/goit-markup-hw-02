@@ -108,7 +108,7 @@ body {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
-  letter-spacing: 0.02em;
+  letter-spacing:0.02em;
   text-transform: capitalize;
   color: #2e2f42;
 }
@@ -144,10 +144,6 @@ body {
   letter-spacing: 0.02em;
 }
 
-.port-list {
-  list-style: none;
-}
-
 .port-button {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -163,10 +159,6 @@ body {
 .port-button:focus {
   color: #ffffff;
   background-color: #404bbf;
-}
-
-.port-img {
-  list-style: none;
 }
 
 .port-header {
